@@ -8,3 +8,4 @@ A new Flutter application of flower gift
 
 ### 效果图
 ![image](https://github.com/1990jiang/flower_gift/blob/master/readmeImages/gift01.png)
+<img src="https://github.com/1990jiang/flower_gift/blob/master/readmeImages/gift02.png" width="150" heigth="250" alt="分类页面"/>
