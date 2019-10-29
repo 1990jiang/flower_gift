@@ -2,15 +2,8 @@
 
 A new Flutter application of flower gift
 
-## Getting Started
+## 项目简单介绍
 
-This project is a starting point for a Flutter application.
+##### 这个项目是我解除flutter开发后写的第一个实战练手项目，主要还是将网上学习的东西实践了一遍，其中还有一些不是很好的地方(比如布局适配缺陷)，不过作为一个了解和使用flutter开发来说已经足够，剩下的需要自己去不断学习了
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+### 效果图
